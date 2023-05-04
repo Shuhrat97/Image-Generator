@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4D4EDABD-3754-47B9-AB52-06639B516CA0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EDAC6CF-03C0-4DC7-A374-917CDA85AF9C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Image-Generator/Business Layer/Managers/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "request(fromURL:httpMethod:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0EDAC6CF-03C0-4DC7-A374-917CDA85AF9C - d1cb8830e2814461"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Image_Generator.NetworkManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(fromURL: Foundation.URL, httpMethod: Image_Generator.HttpMethod, completion: (Image_Generator.ResultType&lt;&#x3c4;_0_0&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Image-Generator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shuhratnurov32gmail.com/Documents/Projects/Team/Image-Generator/Image-Generator/Business%20Layer/Managers/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "478">
+               </Location>
+               <Location
+                  uuid = "0EDAC6CF-03C0-4DC7-A374-917CDA85AF9C - d1cb8830e2814461"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Image_Generator.NetworkManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(fromURL: Foundation.URL, httpMethod: Image_Generator.HttpMethod, completion: (Image_Generator.ResultType&lt;&#x3c4;_0_0&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Image-Generator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shuhratnurov32gmail.com/Documents/Projects/Team/Image-Generator/Image-Generator/Business%20Layer/Managers/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "548">
+               </Location>
+               <Location
+                  uuid = "0EDAC6CF-03C0-4DC7-A374-917CDA85AF9C - d1cb8830e2814461"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Image_Generator.NetworkManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(fromURL: Foundation.URL, httpMethod: Image_Generator.HttpMethod, completion: (Image_Generator.ResultType&lt;&#x3c4;_0_0&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Image-Generator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shuhratnurov32gmail.com/Documents/Projects/Team/Image-Generator/Image-Generator/Business%20Layer/Managers/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "805">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25C07056-C301-4932-B681-4B283853EF54"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Image-Generator/Business Layer/Managers/CoreDataManager/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "saveImageToCoreData(title:image:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
