@@ -122,7 +122,6 @@
 			isa = PBXGroup;
 			children = (
 				8D42C4222A02462D00996E48 /* Managers */,
-				8D42C41F2A023FED00996E48 /* Models */,
 				8D42C41E2A023FD500996E48 /* Scenes */,
 			);
 			path = "Business Layer";
@@ -136,13 +135,6 @@
 				8D42C4202A02411D00996E48 /* GeneratorViewController.swift */,
 			);
 			path = Scenes;
-			sourceTree = "<group>";
-		};
-		8D42C41F2A023FED00996E48 /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
 			sourceTree = "<group>";
 		};
 		8D42C4222A02462D00996E48 /* Managers */ = {
